@@ -7,4 +7,4 @@
 
 ♥ As of right now, I'm Working towards mastering UI Design, and developing Full-stack Development Projects. Don't be afraid to let me know what I can do better in my projects!
 
-♡ In the future, I would love to create a textbook dedicated towards getting young adults interested in tech.
+♡ In the future, I would love to explore more into embedded systems and computer engineering.
