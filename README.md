@@ -1,5 +1,11 @@
 # About Me:
-I'm an aspiring Software Engineer currently finishing my A.A.S in IT: Computer Programming and Development @ WTCC, and a member of the National Society for Black Engineers (NSBE).<br><br>In my personal time, I love music, drawing, baking and perfumery.<br><br>As of right now, I'm Working towards mastering iOS App development, and staying consistent between working on projects (full-stack, design and mini). Don't be afraid to let me know what I can do better in my projects!<br><br>My Career goal is to find my first job in Software Development (Web or iOS), and a personal goal of mine is to stay consistent and complete at least one project a month.
+I'm an aspiring Engineer with an A.A.S in IT: Computer Programming and Development @ WTCC, going in for an AS in Engineering in the Fall. I am also a member of the National Society for Black Engineers (NSBE). I plan to transfer to NC State afterwards for a B.S in Computer Engineering.
+
+<br><br>In my personal time, I love music, drawing, baking and perfumery.
+
+<br><br>As of right now, My goal is to stay consistent on programming and working on projects (full-stack, design and mini). Don't be afraid to let me know what I can do better in my projects!
+
+<br><br>My life goal is to become a Computer Engineer, and acheive four degrees by that time!
 
 
 ## Socials:
